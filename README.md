@@ -1,1 +1,1 @@
-# JS-Calculator
+# React JS Projects
